@@ -1,4 +1,4 @@
-package com.emikhalets.minicalculator.ui.theme
+package com.emikhalets.minicalculator.core.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

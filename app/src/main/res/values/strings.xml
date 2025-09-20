@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MiniCalculator</string>
+    <string name="calculator_top_title">Калькулятор</string>
 </resources>

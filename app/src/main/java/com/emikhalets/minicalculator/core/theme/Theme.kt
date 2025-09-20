@@ -1,6 +1,5 @@
-package com.emikhalets.minicalculator.ui.theme
+package com.emikhalets.minicalculator.core.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
